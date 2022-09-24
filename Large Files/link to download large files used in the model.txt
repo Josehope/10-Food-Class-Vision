@@ -1,0 +1,8 @@
+Follow this link to download the Data used in training this model
+
+https://drive.google.com/file/d/1NJxp59D5RjKbg-5_lhd9M7P1YRU1QioX/view?usp=sharing
+
+
+Follow this link to access the saved trained model
+
+https://drive.google.com/file/d/14Gygh8D_Eok5gA_uUILQpW5-vRB4SM1B/view?usp=sharing
